@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50de17c8-a204-417f-91dc-e0cfb2972655" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lesson02/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson02/indexh.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson02/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson02/main_hard.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -9,16 +13,27 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2IUx1MQb3PJW1NqDSX3oJaBDa6X" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -43,7 +58,7 @@
       <workItem from="1670249749377" duration="2002000" />
       <workItem from="1670251994557" duration="489000" />
       <workItem from="1670336304376" duration="5875000" />
-      <workItem from="1670940013815" duration="942000" />
+      <workItem from="1670940013815" duration="3918000" />
     </task>
     <servers />
   </component>
