@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50de17c8-a204-417f-91dc-e0cfb2972655" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson02/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson02/indexh.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson02/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson02/main_hard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +55,9 @@
       <workItem from="1670249749377" duration="2002000" />
       <workItem from="1670251994557" duration="489000" />
       <workItem from="1670336304376" duration="5875000" />
-      <workItem from="1670940013815" duration="3918000" />
+      <workItem from="1670940013815" duration="4390000" />
+      <workItem from="1671271778104" duration="517000" />
+      <workItem from="1671627015743" duration="410000" />
     </task>
     <servers />
   </component>
