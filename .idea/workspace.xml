@@ -2,27 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50de17c8-a204-417f-91dc-e0cfb2972655" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson02-03/index3h.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson02-03/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson02-03/main3.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson02/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson02-03/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson02/indexh.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson02-03/indexh.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson02/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson02/main_hard.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson02-03/main2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson02-03/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson02-03/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson02-03/main3.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson02-03/main3.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="HTML File" />
-        <option value="JavaScript File" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,19 +23,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="terminal" />
     <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/lesson01" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -60,10 +40,9 @@
       <updated>1670249747806</updated>
       <workItem from="1670249749377" duration="2002000" />
       <workItem from="1670251994557" duration="489000" />
-      <workItem from="1670336304376" duration="5875000" />
-      <workItem from="1670940013815" duration="4390000" />
-      <workItem from="1671271778104" duration="517000" />
-      <workItem from="1671627015743" duration="8093000" />
+      <workItem from="1670336304376" duration="4459000" />
+      <workItem from="1671802283243" duration="926000" />
+      <workItem from="1671955121600" duration="2894000" />
     </task>
     <servers />
   </component>

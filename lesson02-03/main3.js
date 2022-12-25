@@ -1,13 +1,13 @@
 // let lang = prompt('Выберите язык');
 
-// switch (lang) {
-//     case 'ru':
-//         alert('Понедельник, вторник, среда, четверг, пятница, суббота, воскресенье');
-//         break;
-//     case 'eng':
-//         alert('Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday');
-//         break;
-// }
+switch (lang) {
+    case 'ru':
+        alert('Понедельник, вторник, среда, четверг, пятница, суббота, воскресенье');
+        break;
+    case 'eng':
+        alert('Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday');
+        break;
+}
 
 // if (lang === 'ru') alert('Понедельник, вторник, среда, четверг, пятница, суббота, воскресенье');
 // if (lang === 'eng') alert('Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday');
